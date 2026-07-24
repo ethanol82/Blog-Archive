@@ -1,3 +1,4 @@
+###2026.07.25
 # Create a project
 
 뭐 대충 Xcode 에 대해 알아보라는거 같다. 그래서 MeetXcode 라는 파일을 일단 만들어봤다. 
